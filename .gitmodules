@@ -1,0 +1,3 @@
+[submodule "p-SEIQR"]
+	path = p-SEIQR
+	url = git@github.com:g-koutsou/p-SEIQR.git
